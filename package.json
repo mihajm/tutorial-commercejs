@@ -18,8 +18,11 @@
     "react-router-dom": "^6.2.1"
   },
   "devDependencies": {
+    "@types/chec__commerce.js": "^2.8.4",
+    "@types/node": "^17.0.10",
     "@types/react": "^17.0.33",
     "@types/react-dom": "^17.0.10",
+    "@types/react-stripe-elements": "^6.0.6",
     "@typescript-eslint/eslint-plugin": "^5.10.0",
     "@typescript-eslint/parser": "^5.10.0",
     "@vitejs/plugin-react": "^1.0.7",
